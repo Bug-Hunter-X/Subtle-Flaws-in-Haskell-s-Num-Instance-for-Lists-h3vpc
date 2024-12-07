@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Haskell program that defines a Num instance for lists. The bug arises from the use of zipWith in the implementation of addition and multiplication.  The solution improves the code's handling of lists of unequal length.
